@@ -1,5 +1,5 @@
 {
-  "clr": { "name": "red",
+  "clr1": { "name": "red",
           "shades": {
     "shade_50": "#ffebee",
     "shade_100": "#ffcdd2",
@@ -17,7 +17,7 @@
     "shade_A700": "#d50000"
     }
   },
-  "clr": { "name": "pink",
+  "clr2": { "name": "pink",
           "shades": {
     "shade_50": "#fce4ec",
     "shade_100": "#f8bbd0",
@@ -35,7 +35,7 @@
     "shade_A700": "#c51162"
           }
   },
-  "clr": { "name": "purple",
+  "clr3": { "name": "purple",
           "shades": {
     "shade_50": "#f3e5f5",
     "shade_100": "#e1bee7",
