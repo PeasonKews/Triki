@@ -1,6 +1,6 @@
 {
   "clr": { "RED": {"name": "red",
-                    "shades": {
+                    "shades": [
                         "shade_50": "#ffebee",
                         "shade_100": "#ffcdd2",
                         "shade_200": "#ef9a9a",
@@ -15,11 +15,11 @@
                         "shade_A200": "#ff5252",
                         "shade_A400": "#ff1744",
                         "shade_A700": "#d50000"
-                                }
+                                ]
                   },
   
            "PINK": {"name": "pink",
-                  "shades": {
+                  "shades": [
                     "shade_50": "#fce4ec",
                     "shade_100": "#f8bbd0",
                     "shade_200": "#f48fb1",
@@ -34,10 +34,10 @@
                     "shade_A200": "#ff4081",
                     "shade_A400": "#f50057",
                     "shade_A700": "#c51162"
-                          }
+                          ]
                     },
               "PURPLE": { "name": "purple",
-                      "shades": {
+                      "shades": [
                         "shade_50": "#f3e5f5",
                         "shade_100": "#e1bee7",
                         "shade_200": "#ce93d8",
@@ -52,7 +52,7 @@
                         "shade_A200": "#e040fb",
                         "shade_A400": "#d500f9",
                         "shade_A700": "#aa00ff"
-                              }
+                              ]
               }
             }
 }
