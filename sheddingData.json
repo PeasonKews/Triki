@@ -1,5 +1,5 @@
 {
-  "red": {
+  "task1": {
     "shade_50": "#ffebee",
     "shade_100": "#ffcdd2",
     "shade_200": "#ef9a9a",
@@ -15,7 +15,7 @@
     "shade_A400": "#ff1744",
     "shade_A700": "#d50000"
   },
-  "pink": {
+  "task2": {
     "shade_50": "#fce4ec",
     "shade_100": "#f8bbd0",
     "shade_200": "#f48fb1",
@@ -31,7 +31,7 @@
     "shade_A400": "#f50057",
     "shade_A700": "#c51162"
   },
-  "purple": {
+  "task3": {
     "shade_50": "#f3e5f5",
     "shade_100": "#e1bee7",
     "shade_200": "#ce93d8",
